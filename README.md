@@ -3,7 +3,7 @@
 This project is an implementation of the classic **Tetris game** developed in **C++**, using object-oriented programming principles. It reproduces the core mechanics of the original game, including falling tetromino pieces, rotation, collision detection, line clearing, and score tracking.  
 The project was developed in collaboration with a teammate as part of a learning experience focused on improving C++ application structure and real-time game logic.
 
-You can view the source code <a href="https://www.youtube.com/watch?v=jcUctrLC-7M">here</a>.
+You can view the gameplay demo <a href="https://www.youtube.com/watch?v=jcUctrLC-7M">here</a>.
 
 ---
 
